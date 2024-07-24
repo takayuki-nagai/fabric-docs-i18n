@@ -240,13 +240,8 @@ Fabricは現在のところ、
 
 ## Performance and Scalability
 
-ブロックチェーンプラットフォームの性能は、トランザクションのサイズ、ブロックのサイズ、ネットワークのサイズ、
-ハードウェアの制約といった多くの変数によって影響を受けます。
-Hyperledger Fabricの [Performance and Scale working group](https://wiki.hyperledger.org/display/PSWG/Performance+and+Scale+Working+Group) は、
-[Hyperledger Caliper](https://wiki.hyperledger.org/projects/caliper) というベンチマークのためのフレームワークに現在取り組んでいます。
-
-Hyperledge Fabricの性能について調査、測定を行った研究論文がいくつかあります。
-最新のものには、[Fabricを毎秒20,000トランザクションまでスケールさせたもの](https://arxiv.org/abs/1901.00910)があります。
+ブロックチェーンプラットフォームの性能は、CPU、メモリ、ディスク容量、ディスクおよびネットワークの I/O 性能といったハードウェアリソースに加え、
+トランザクションのサイズ、ブロックのサイズ、ネットワークのサイズといった多くの変数によって影響を受けます。
 
 ## Conclusion
 
